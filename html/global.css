@@ -62,6 +62,9 @@ body {
 #section {
     color: white;
 }
+#section a {
+    color: white;
+}
 #section h3{
     text-transform: uppercase;
 }
