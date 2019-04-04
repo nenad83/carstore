@@ -48,8 +48,14 @@ body {
 }
 #nav li a {
     color: white;
+    background-color: transparent;
 }
 #nav li a:hover {
+    color: red;
+    transition: 0.3s;
+}
+#nav li a:active {
+    background-color: transparent;
     color: red;
 }
 #banner{
